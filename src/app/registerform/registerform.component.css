@@ -1,0 +1,48 @@
+.content
+{
+    max-width: 500px;
+    margin: auto;
+    background-color: rgb(193, 230, 228);
+    /* background: linear-gradient(305deg, rgb(203, 47, 255), dodgerblue); */
+     padding: 2% 2%;
+}
+
+button
+{
+     
+    color: white;
+    width: 100px;
+    margin-left: 40%;
+}
+
+button:hover
+{
+    color: white;
+    /* background-color: darkblue; */
+}
+
+
+.btnn
+{
+ background-color: rgb(113, 3, 3);
+}
+
+.error
+{
+    color: red;
+}
+
+
+
+.ng-valid[required], .ng-valid.required  {
+    border-left: 5px solid #42A948;
+  }
+  
+  .ng-invalid:not(form)  {
+    border-left: 5px solid #a94442; 
+  }
+
+
+
+
+ 
